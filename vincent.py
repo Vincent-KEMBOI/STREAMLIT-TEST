@@ -90,4 +90,3 @@ if st.button("OK"):
     else:
         st.warning("Please enter both your name and date of birth.")
 
-upload=st.file_uploader("Enter File:",type=["csv","txt"])
